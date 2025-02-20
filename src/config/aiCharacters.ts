@@ -16,7 +16,7 @@ export const modelConfigs = [
     baseURL: "https://api.hunyuan.cloud.tencent.com/v1"
   },
   {
-    model: "ep-20250217191935-wzj8l",//火山引擎接入点（改成自己的）
+    model: "ep-20250220163344-gfgnt",//火山引擎接入点（改成自己的）
     apiKey: "ARK_API_KEY",
     baseURL: "https://ark.cn-beijing.volces.com/api/v3"
   }
